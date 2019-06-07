@@ -11,7 +11,7 @@
   <buildtool_depend>catkin_simple</buildtool_depend>
 
   <depend>libgoogle-glog-dev</depend>
-  <depend>brisk</depend>
+  <!-- <depend>brisk</depend> -->
   <depend>dynamic_reconfigure</depend>
   <depend>image_transport</depend>
   <depend>image_geometry</depend>
